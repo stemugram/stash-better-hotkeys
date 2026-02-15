@@ -26,7 +26,7 @@
 //
 // AUTHOR: MM
 // VERSION: 1.0.0
-// REPOSITORY: https://github.com/YOUR_USERNAME/stash-better-hotkeys
+// REPOSITORY: https://github.com/stemugram/stash-better-hotkeys
 // ============================================================
 
 (function () {
