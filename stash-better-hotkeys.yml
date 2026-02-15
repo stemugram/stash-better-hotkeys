@@ -1,0 +1,7 @@
+name: Better Hotkeys
+description: Single-key navigation for scenes. Press 'n' for next, 'b' for previous, 'r' for random - no more pressing 'p' first!
+version: 1.0.0
+url: https://github.com/stemugram/stash-better-hotkeys
+ui:
+  javascript:
+    - stash-better-hotkeys.js
