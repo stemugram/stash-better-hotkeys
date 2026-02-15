@@ -1,7 +1,20 @@
 name: Better Hotkeys
-description: Single-key navigation for scenes. Press 'n' for next, 'b' for previous, 'r' for random - no more pressing 'p' first!
+description: Adds single-key navigation for scenes. Press n for next scene, b for previous scene, r for random scene. No need to press p first!
 version: 1.0.0
 url: https://github.com/stemugram/stash-better-hotkeys
+settings:
+  nextKey:
+    displayName: Next Scene Key
+    description: Key for navigating to next scene (default is n)
+    type: STRING
+  prevKey:
+    displayName: Previous Scene Key
+    description: Key for navigating to previous scene (default is b)
+    type: STRING
+  randomKey:
+    displayName: Random Scene Key
+    description: Key for navigating to random scene (default is r)
+    type: STRING
 ui:
   javascript:
     - stash-better-hotkeys.js
