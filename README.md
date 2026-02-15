@@ -19,7 +19,7 @@ No need to press `p` before each navigation command!
 3. Click "Add Source"
 4. Fill in the fields:
    - **Name:** Better Hotkeys
-   - **Source URL:** `https://raw.githubusercontent.com/YOUR_USERNAME/stash-better-hotkeys/main/stash-better-hotkeys.yml`
+   - **Source URL:** `https://raw.githubusercontent.com/stemugram/stash-better-hotkeys/main/stash-better-hotkeys.yml`
    - **Local Path:** leave empty
 5. Click "Confirm"
 6. Find the plugin in the list and click "Install"
